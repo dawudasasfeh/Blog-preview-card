@@ -50,6 +50,32 @@ In this project, I improved my understanding of:
 - Responsive web design for images.
 - Using AI tools (Gemini, Google AI, and GitHub Copilot) for guidance while learning.
 
+```css
+.card-image-container {
+  width: 100%;
+  margin-top: 24px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.card-image {
+  display: block;
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+
+@media (min-width: 768px) {
+  .card {
+    max-width: 384px;
+  }
+  .card-image {
+    height: auto;
+    object-fit: fill;
+  }
+}
+```
+
 ### Continued development
 
 My next step is learning React and continuing to build small projects to gain more hands-on experience, just like I did with this challenge.
