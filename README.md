@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repositery](https://github.com/dawudasasfeh/Blog-preview-card)
-- Live Site URL: [Blog preview card](https://blog-preview-card-blush-mu.vercel.app/)
+- Live Site URL: [Blog preview card](https://dawudasasfeh.github.io/Blog-preview-card/)
 
 ## My process
 
@@ -90,5 +90,5 @@ I used Gemini, Google AI, and GitHub Copilot for guidance on responsive web desi
 
 ## Author
 
-- Website - [Dawudasasfeh](#)
+- Website - [Dawudasasfeh](https://dawudasasfeh.github.io/)
 - Frontend Mentor - [@dawudasasfeh](https://www.frontendmentor.io/profile/dawudasasfeh)
